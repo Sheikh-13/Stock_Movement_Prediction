@@ -2,8 +2,8 @@
 #   STOCK MOVEMENT PREDICTOR — Full Integrated Interface
 #   WITH AUTOMATIC OUTLIER DETECTION & TREATMENT
 #   WITH BASIC / ADVANCED MODE TOGGLE
-#   Sheikh | Internship Project | VTU CSE (IoT + Cyber)
-#   Run with:  streamlit run stock_predictor_full.py
+#   Sheikh Tauheed | Internship Project | VTU CSE (IoT + Cyber)
+#   Run with:  streamlit run SP.py
 #   Install:   pip install streamlit yfinance pandas numpy
 #              scikit-learn plotly scipy
 # ============================================================
@@ -773,11 +773,7 @@ consensus = "UP" if up_votes >= 2 else "DOWN"
 
 
 # ═════════════════════════════════════════════════════════════
-#  ██████╗  █████╗ ███████╗██╗ ██████╗    ███╗   ███╗ ██████╗ ██████╗ ███████╗
-#  ██╔══██╗██╔══██╗██╔════╝██║██╔════╝    ████╗ ████║██╔═══██╗██╔══██╗██╔════╝
-#  ██████╔╝███████║███████╗██║██║         ██╔████╔██║██║   ██║██║  ██║█████╗
-#  ██╔══██╗██╔══██║╚════██║██║██║         ██║╚██╔╝██║██║   ██║██║  ██║██╔══╝
-#  ██████╔╝██║  ██║███████║██║╚██████╗    ██║ ╚═╝ ██║╚██████╔╝██████╔╝███████╗
+# BASIC MODE
 # ═════════════════════════════════════════════════════════════
 if is_basic:
     cons_color = "#10b981" if consensus == "UP" else "#ef4444"
