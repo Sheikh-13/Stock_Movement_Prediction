@@ -205,6 +205,68 @@ Along with:
 
 ---
 
+## 📸 Snapshots
+
+<div align="center">
+
+###  **Home-Page**
+*Home Page*
+
+![Home_Page](stock-snapshots/1.HomePage.png)
+
+###  **Basic Mode**
+*Prediction in Basic Mode*
+
+![prediction](stock-snapshots/2.prediction-basicmode.png)
+
+*Visualization in Basic Mode*
+
+![Visualization](stock-snapshots/3.Visualization.png)
+
+###  **Advance Mode**
+*Dataset tab*
+
+![dataset](stock-snapshots/4.advancemode-datasettab.png)
+
+*Dataset Visualizations*
+
+![dataset_visual](stock-snapshots/5.advancevisualization.png)
+
+*Outliers tab*
+
+![outliertab](stock-snapshots/6.outliertab.png)
+
+*Outlier treatment visualizations*
+
+![outliervisual1](stock-snapshots/7.outliertreatmentvisual-1.png)
+
+![outliervisual2](stock-snapshots/8.outliertreatmentvisual-2.png)
+
+![outliervisual3](stock-snapshots/9.outliertreatmentvisual-3.png)
+
+*Model Performance tab*
+
+![MPtab](stock-snapshots/10.modelperformtab.png)
+
+*Model Performance Visualization*
+
+![MPvisual1](stock-snapshots/11.modelperformvisual-1.png)
+
+![MPvisua2](stock-snapshots/12.modelperformvisual-2.png)
+
+*Prediction tab*
+
+![predict](stock-snapshots/13.predictiontab.png)
+
+*Prediction Visualization *
+
+![predictvisual](stock-snapshots/14.modelpredictionvisual.png)
+
+
+</div>
+
+---
+
 ## 📚 Educational Purpose
 
 This project was developed as an internship/project work.
