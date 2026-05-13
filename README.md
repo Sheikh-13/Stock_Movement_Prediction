@@ -230,6 +230,7 @@ Stock market predictions are based on historical data and machine learning patte
 ## 👨‍💻 Author
 
 Developed by **Sheikh Tauheed**
+
 Internship Project – CSE(Iot, CS including BCT)
 
 **LinkedIn**: [Sheikh Tauheed](https://www.linkedin.com/in/sheikh-tauheed-82100026a/)
