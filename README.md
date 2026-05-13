@@ -207,9 +207,7 @@ Along with:
 
 ## 📚 Educational Purpose
 
-This project was developed as an internship/project work for:
-
-**VTU CSE (IoT & Cybersecurity)**
+This project was developed as an internship/project work.
 
 It demonstrates practical applications of:
 
@@ -232,6 +230,10 @@ Stock market predictions are based on historical data and machine learning patte
 ## 👨‍💻 Author
 
 **Sheikh Tauheed**
+
+**LinkedIn**: [Sheikh Tauheed](https://www.linkedin.com/in/sheikh-tauheed-82100026a/)
+
+**Github**: [Sheikh-13](https://github.com/Sheikh-13)
 
 ---
 
