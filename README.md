@@ -148,7 +148,7 @@ pip install -r requirements.txt
 ### 3️⃣ Run the Application
 
 ```bash
-streamlit run stock_predictor_full.py
+streamlit run SP.py
 ```
 
 ---
