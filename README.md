@@ -229,7 +229,7 @@ Stock market predictions are based on historical data and machine learning patte
 
 ## 👨‍💻 Author
 
-**Sheikh Tauheed**
+Developed by **Sheikh Tauheed**
 
 **LinkedIn**: [Sheikh Tauheed](https://www.linkedin.com/in/sheikh-tauheed-82100026a/)
 
